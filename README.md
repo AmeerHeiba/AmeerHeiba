@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Ameer Heiba 👋
 
-<!--
-**AmeerHeiba/AmeerHeiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer with a focus on building scalable and efficient e-commerce systems. I love experimenting with new technologies and constantly improving my skills.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- JavaScript, HTML, CSS, Bootstrap, JQuery
+- Node.js, Express.js
+- MongoDB, MySQL
+- Git, GitHub
+- Docker, Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects
+- **[Multi-Actor E-commerce System](https://github.com/AmeerHeiba/ECV2)**: A comprehensive e-commerce platform catering to customers, sellers, and admins.
+- **[Infinite-Scroll](https://github.com/AmeerHeiba/Infinite-Scroll)**: Simple web app that uses JS and APIs to display random photos with Infinite scrolling.
+- **[Dark---light-mode-portofolio](https://github.com/AmeerHeiba/Dark---light-mode-portofolio)**: Simple protofolio using JS which contains Dark / Light Mode.
+- **[Nasa-Project](https://github.com/AmeerHeiba/Nasa-Project)**: Node JS / React / Mongo / Express application mocking a NASA application for scheduling space trips.
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/ameerheiba)
+
